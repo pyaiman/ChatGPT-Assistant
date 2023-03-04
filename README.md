@@ -15,7 +15,7 @@ GPT AI Assistant is an application that is implemented using the OpenAI API and 
 
 ## Contact
 
-If there is any question, please contact me at memochou1993@gmail.com. Thank you.
+If there is any question, please contact me at 950154@gnail.com. Thank you.
 
 ## Changelog
 
