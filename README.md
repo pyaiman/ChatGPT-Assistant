@@ -4,7 +4,8 @@
 
 </div>
 
-GPT AI Assistant is an application that is implemented using the OpenAI API and LINE Messaging API. Through the installation process, you can start chatting with your own AI assistant using the LINE mobile app.
+GPT AI Assistant is an application that is implemented using the OpenAI API and LINE Messaging API.
+Through the installation process, you can start chatting with your own AI assistant using the LINE mobile app.
 
 ## Credits
 
